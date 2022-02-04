@@ -6,9 +6,8 @@ const handleCastErrorDB = (err) => {
 };
 
 const handleDuplicateFieldsDB = (err) => {
-  const value = err.errmsg.match(/(["'])(\\?.)*?\1/)[0];
-
-  const message = `Duplicate field value: ${value}. Please use another value!`;
+  const value = Object.values(err.keyValue)[0];
+  const message = `${value} already exists!`;
   return new AppError(message, 400);
 };
 
@@ -37,11 +36,10 @@ const sendErrorDev = (err, req, res) => {
   }
 
   // B) RENDERED WEBSITE
-  console.error("ERROR", err);
+  console.error("ERROR 💥", err);
   return res.status(err.statusCode).render("error", {
     title: "Something went wrong!",
     msg: err.message,
-    errorCode: err.statusCode,
   });
 };
 
@@ -53,17 +51,15 @@ const sendErrorProd = (err, req, res) => {
       return res.status(err.statusCode).json({
         status: err.status,
         message: err.message,
-        errorCode: err.statusCode,
       });
     }
     // B) Programming or other unknown error: don't leak error details
     // 1) Log error
-    console.error("ERROR", err);
+    console.error("ERROR 💥", err);
     // 2) Send generic message
     return res.status(500).json({
       status: "error",
       message: "Something went very wrong!",
-      errorCode: err.statusCode,
     });
   }
 
@@ -73,31 +69,34 @@ const sendErrorProd = (err, req, res) => {
     return res.status(err.statusCode).render("error", {
       title: "Something went wrong!",
       msg: err.message,
-      errorCode: err.statusCode,
     });
   }
   // B) Programming or other unknown error: don't leak error details
   // 1) Log error
-  console.error("ERROR ", err);
+  console.error("ERROR 💥", err);
   // 2) Send generic message
   return res.status(err.statusCode).render("error", {
     title: "Something went wrong!",
     msg: "Please try again later.",
-    errorCode: err.statusCode,
   });
 };
 
 module.exports = (err, req, res, next) => {
   // console.log(err.stack);
-
   err.statusCode = err.statusCode || 500;
   err.status = err.status || "error";
 
   if (process.env.NODE_ENV === "development") {
-    sendErrorDev(err, req, res);
+    let error = { ...err };
+    error.message = err.message;
+
+    if (error.code === 11000) error = handleDuplicateFieldsDB(error);
+
+    sendErrorDev(error, req, res);
   } else if (process.env.NODE_ENV === "production") {
     let error = { ...err };
     error.message = err.message;
+    console.log(error);
 
     if (error.name === "CastError") error = handleCastErrorDB(error);
     if (error.code === 11000) error = handleDuplicateFieldsDB(error);

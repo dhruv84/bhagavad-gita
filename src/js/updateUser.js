@@ -5,7 +5,8 @@ export const addBookmark = async (slokaID, bookmark, slug) => {
   try {
     const res = await axios({
       method: "POST",
-      url: "http://localhost:3000/api/gita/users/createFavourites",
+      // url: "http://localhost:3000/api/gita/users/createFavourites",
+      url: "/api/gita/users/createFavourites",
       data: {
         slokaID,
         slug,
@@ -24,7 +25,8 @@ export const removeBookmark = async (slokaID, bookmark) => {
   try {
     const res = await axios({
       method: "DELETE",
-      url: "http://localhost:3000/api/gita/users/removeFavourites",
+      // url: "http://localhost:3000/api/gita/users/removeFavourites",
+      url: "/api/gita/users/removeFavourites",
       data: {
         slokaID,
       },
@@ -34,7 +36,7 @@ export const removeBookmark = async (slokaID, bookmark) => {
       bookmark.classList.add("addFav");
     }
   } catch (err) {
-    alert(err.response.data.message);
+    new Alert(err.response.data.message).renderAlert();
   }
 };
 
@@ -42,7 +44,8 @@ export const updateUser = async (email, name) => {
   try {
     const res = await axios({
       method: "PATCH",
-      url: "http://localhost:3000/api/gita/users/updateMe",
+      // url: "http://localhost:3000/api/gita/users/updateMe",
+      url: "/api/gita/users/updateMe",
       data: {
         email,
         name,
@@ -63,13 +66,13 @@ export const updateUser = async (email, name) => {
 export const updatePassword = async (
   passwordCurrent,
   password,
-  passwordConfirm,
-  doc
+  passwordConfirm
 ) => {
   try {
     const res = await axios({
       method: "PATCH",
-      url: "http://localhost:3000/api/gita/users/updatePassword",
+      // url: "http://localhost:3000/api/gita/users/updatePassword",
+      url: "/api/gita/users/updatePassword",
       data: {
         passwordCurrent,
         password,
@@ -92,7 +95,8 @@ export const updateContinue = async (link, bookmark) => {
   try {
     const res = await axios({
       method: "PATCH",
-      url: "http://localhost:3000/api/gita/users/updateContinue",
+      // url: "http://localhost:3000/api/gita/users/updateContinue",
+      url: "/api/gita/users/updateContinue",
       data: {
         link,
       },
@@ -109,7 +113,8 @@ export const updateUserNew = async () => {
   try {
     const res = await axios({
       method: "PATCH",
-      url: "http://localhost:3000/api/gita/users/updateUserNew",
+      // url: "http://localhost:3000/api/gita/users/updateUserNew",
+      url: "/api/gita/users/updateUserNew",
     });
   } catch (err) {
     new Alert(err.response.data.message).renderAlert();
@@ -120,7 +125,8 @@ export const deleteUser = async () => {
   try {
     const res = await axios({
       method: "DELETE",
-      url: "http://localhost:3000/api/gita/users/deleteMe",
+      // url: "http://localhost:3000/api/gita/users/deleteMe",
+      url: "/api/gita/users/deleteMe",
     });
   } catch (err) {
     new Alert(err.response.data.message).renderAlert();

@@ -4,7 +4,8 @@ export const getSloka = async (chapter, slokaNumber) => {
   try {
     const res = await axios({
       method: "POST",
-      url: "http://localhost:3000/api/gita/sloka/getSloka",
+      // url: "http://localhost:3000/api/gita/sloka/getSloka",
+      url: "/api/gita/sloka/getSloka",
       data: {
         chapter,
         slokaNumber,

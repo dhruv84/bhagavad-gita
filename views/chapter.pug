@@ -40,7 +40,8 @@ block content
       p.gitaChapter-chapterName= chapter.name_hi
       p.gitaChapter-chapterMeaning= chapter.name_meaning_hi
     .gitaChapter-slokas
-      .chapterPagination.chapterBookmark(data-link=`/${chapter.slug}/${page}`) #{page}/#{slokaLength}
+      .chapterPagination.chapterBookmark(data-link=`/${chapter.slug}/${page}`)
+        p.chapterPagination-value #{page}/#{slokaLength} 
         .chapterPagination-load
       form.formPage.form__closed
         input.search(type='text' placeholder='Page')

@@ -804,6 +804,7 @@ li {
     z-index: -1; }
 
 .load {
+  filter: brightness(1.2);
   animation: load 1.5s infinite; }
 
 .pageBookmarked {

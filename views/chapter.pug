@@ -1,0 +1,54 @@
+extends base
+
+mixin slokaBox(chapter, sloka)
+  .gitaChapter-slokas-sloka 
+    .gitaChapter-slokas-sloka-sans
+
+      if user 
+        -const slokaIDs = user.userFav.map(el => JSON.stringify(el.sloka._id))
+        -const currentSlokaId = JSON.stringify(sloka._id)
+        if (slokaIDs.includes(currentSlokaId))
+          img.gitaChapter_bookmark(src="/img/svg/Bookmark.svg" data-id=`${sloka._id}`)
+        else 
+          img.gitaChapter_bookmark.addFav(src="/img/svg/Bookmark-line.svg" data-id=`${sloka._id}` data-slug=`${chapter.slug}`)  
+      else 
+        img.gitaChapter_bookmark.addFav(src="/img/svg/Bookmark-line.svg" data-id=`${sloka._id}`)
+                   
+      if(sloka.speaker)
+        p.speaker= sloka.speaker      
+      -const arr = sloka.sloka.split('-')
+      each sl in arr 
+        p.text_dec   #{sl.split("S")[0]}।
+          br
+          | #{sl.split("S")[1]}
+    .gitaChapter-slokas-sloka-hi
+      p.gitaChapter-slokas-slokaNumber.gitaChapter-slokas-slokaNumber-hi.font-eng ।।#{chapter.chapter}.#{sloka.slokaNumber}।।
+      p=`${sloka.translation_hi}`
+    .gitaChapter-slokas-sloka-eng 
+      p.gitaChapter-slokas-slokaNumber.gitaChapter-slokas-slokaNumber-eng (#{chapter.chapter}.#{sloka.slokaNumber})
+      p= `${sloka.translation_eng}`
+      if(sloka.meaning)
+        p.hidden.meaning= sloka.meaning
+        button.btn_meaning.animate__animated.animate__bounce
+
+block content
+  main.gitaChapter
+    a.header_link(href="/")
+    .gitaChapter-info
+      figure.gitaChapter-info-underline-white
+      p.gitaChapter-chapterNumber अध्याय - #{chapter.chapter}
+      p.gitaChapter-chapterName= chapter.name_hi
+      p.gitaChapter-chapterMeaning= chapter.name_meaning_hi
+    .gitaChapter-slokas
+      .chapterPagination.chapterBookmark(data-link=`/${chapter.slug}/${page}`) #{page}/#{slokaLength}
+        .chapterPagination-load
+      form.formPage.form__closed
+        input.search(type='text' placeholder='Page')
+        i#search.uil.uil-search.search-icon
+      .gitaChapter-slokas-slokaBox 
+        each sloka in chapter.slokas
+          +slokaBox(chapter, sloka)
+      a#pageNext.btn(href=`/chapter/${chapter.slug}/${chapter.slokas[0].page + 1}` class=`${page >= slokaLength?"inactive":"active"}`) 
+        i.uil.uil-arrow-right.btn_icon
+      a#pagePrev.btn(href=`/chapter/${chapter.slug}/${chapter.slokas[0].page - 1}` class=`${page <= 1?"inactive":"active"}`)  
+        i.uil.uil-arrow-left.btn_icon

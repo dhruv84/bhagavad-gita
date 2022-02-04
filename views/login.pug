@@ -1,0 +1,27 @@
+extends base
+
+block content
+  main.login
+    include _headerNav
+    .login-main
+      .login-form
+        h2.heading-secondary.ma-bt-lg Log into your account
+        form.form.form--login
+          .form__group
+            label.form__label(for='email') Email address
+            i.uil.uil-envelope-alt.icon_form.icon_form-t2
+            input#email.form__input(type='email', placeholder='example@123.com', required)
+          .form__group.ma-bt-md
+            label.form__label(for='password') Password
+            i.uil.uil-lock-alt.icon_form
+            input#password.form__input(type='password', placeholder='••••••••', required, minlength='8')
+          .already_have
+            p Or
+            a.already_have-link(href="/forgetPassword") Forget Password 
+          .already_have
+            p Don't have an account?
+            a.already_have-link(href="/signup") Sign Up 
+          .form__group
+            .form_button 
+              button.btn--login.btn-update Login
+              img.loading_Update(src="/img/svg/Spin-1s-200px.svg", alt="")

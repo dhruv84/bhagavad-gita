@@ -1,0 +1,39 @@
+.maya_game {
+  width: 100vw;
+  height: 100vh;
+  cursor: none;
+  font-family: $font-eng-2;
+  color: $color-grey;
+
+  &-instruction {
+    position: absolute;
+    top: 3rem;
+    right: 3rem;
+    color: $color-primary2;
+  }
+}
+
+.container {
+  width: 7rem;
+  height: 7rem;
+  background-color: $color-text;
+  box-shadow: inset 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+    inset -4px -4px 3px -1px rgb(255, 255, 255);
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.container_you {
+  transition: all 1s ease-out;
+}
+
+.container_maya {
+  transition: all 0.1s ease-out;
+}
+
+.hide_G-Obj {
+  transform: translate(-50%, -50%) scale(0);
+}

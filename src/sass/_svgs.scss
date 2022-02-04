@@ -1,0 +1,39 @@
+.krishna_img {
+  position: relative;
+  height: 50rem;
+
+  @include response(tabL) {
+    height: 40rem;
+    margin: 4rem 0;
+  }
+
+  @include response(phone) {
+    height: 30rem;
+  }
+
+  @include response(phoneVS) {
+    height: 25rem;
+  }
+
+  &-svg {
+    height: 100%;
+  }
+  &-pankh-svg {
+    height: 5rem;
+    position: absolute;
+    top: -25px;
+    left: 90px;
+    transform: rotateZ(-20deg);
+    transform-origin: bottom;
+    transition: all 1s;
+  }
+}
+
+.krishna-white {
+  position: absolute;
+}
+
+.krishna_hand {
+  margin-top: 5rem;
+  height: 30rem;
+}

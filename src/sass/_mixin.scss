@@ -1,0 +1,67 @@
+/*
+0    -  600px    width for phone
+600  -  900px    width for tablet portrait
+900  -  1200px   width for tablet landscape
+1200 -  1800px   for normal width
+1800px plus    for big desktop
+*/
+
+//1 em = 16px;
+
+@mixin response($breakpoint) {
+  @if $breakpoint == fourk {
+    @media (max-width: 160em) {
+      @content;
+    }
+  }
+  @if $breakpoint == tabX {
+    @media (max-width: 80em) {
+      @content;
+    }
+  }
+  @if $breakpoint == tabL {
+    @media (max-width: 75em) {
+      @content;
+    }
+  }
+  @if $breakpoint == tabP {
+    @media (max-width: 56.25em) {
+      @content;
+    }
+  }
+  @if $breakpoint == tabS {
+    @media (max-width: 40.62em) {
+      @content;
+    }
+  }
+  @if $breakpoint == phone {
+    @media (max-width: 37.5em) {
+      @content;
+    }
+  }
+  @if $breakpoint == phoneMid {
+    @media (max-width: 28.12em) {
+      @content;
+    }
+  }
+  @if $breakpoint == phoneSm {
+    @media (max-width: 23.12em) {
+      @content;
+    }
+  }
+  @if $breakpoint == phoneSS {
+    @media (max-width: 18.75em) {
+      @content;
+    }
+  }
+  @if $breakpoint == phoneSMS {
+    @media (max-width: 17.5em) {
+      @content;
+    }
+  }
+  @if $breakpoint == phoneVS {
+    @media (max-width: 15.62em) {
+      @content;
+    }
+  }
+}

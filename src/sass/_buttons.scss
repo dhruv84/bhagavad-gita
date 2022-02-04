@@ -1,0 +1,143 @@
+.btn {
+  font-size: 2.3rem;
+  border: none;
+  width: 4rem;
+  height: 4rem;
+  place-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  position: fixed;
+  bottom: 3rem;
+  background-color: $color-text;
+  box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+    -4px -4px 3px -1px rgb(255, 255, 255);
+
+  &:hover {
+    box-shadow: inset 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+      inset -4px -4px 3px -1px rgb(255, 255, 255);
+  }
+
+  &_icon {
+    color: $color-primary2;
+    font-size: 3rem;
+
+    &-search {
+      color: $color-primary2;
+      font-size: 2rem;
+    }
+  }
+}
+
+#pagePrev {
+  left: 33rem;
+
+  @include response(tabL) {
+    left: 3rem;
+  }
+}
+
+#pageNext {
+  right: 3rem;
+}
+
+.inactive {
+  display: none;
+}
+
+.active {
+  display: grid;
+}
+
+.btn_meaning {
+  position: absolute;
+  right: -5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: linear-gradient(
+    to right bottom,
+    rgba(162, 82, 18, 1) 0%,
+    rgba(104, 45, 11, 1) 100%
+  );
+  border: none;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50rem;
+  cursor: pointer;
+
+  @include response(tabX) {
+    right: -2rem;
+  }
+}
+
+.btn_close-nav,
+.btn_open-nav {
+  position: absolute;
+  top: 1rem;
+  left: 3.5rem;
+  border: none;
+  outline: none;
+  color: #808080;
+  border-radius: 50%;
+  width: 4rem;
+  height: 4rem;
+  display: none;
+  background: none;
+  place-items: center;
+
+  &-icon {
+    font-size: 2.5rem;
+  }
+
+  &:active {
+    background-color: rgba($color: #000000, $alpha: 0.03);
+  }
+
+  @include response(tabL) {
+    display: grid;
+  }
+}
+
+.btn_open-nav {
+  top: 8rem;
+}
+
+.btn_sloka-search {
+  position: relative;
+  border: none;
+  border-radius: 50rem;
+  background-color: $color-text;
+  color: $color-grey;
+  padding: 0.5rem 2rem;
+  font-family: "Quicksand", sans-serif;
+  font-size: 1.7rem;
+  display: flex;
+  align-items: center;
+  column-gap: 1rem;
+  justify-content: center;
+  margin: 4rem auto 0 auto;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.1s;
+  box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+    -4px -4px 3px -1px rgb(255, 255, 255);
+
+  &:hover {
+    transform: translateY(-0.3rem);
+  }
+
+  &:active {
+    transform: translateY(0);
+    box-shadow: inset 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+      inset -4px -4px 3px -1px rgb(255, 255, 255);
+  }
+}
+
+.sloka_search-form-btn {
+  background: none;
+  border: none;
+  position: absolute;
+  top: 50%;
+  right: -5rem;
+  transform: translateY(-50%);
+  cursor: pointer;
+}

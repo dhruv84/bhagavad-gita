@@ -1,0 +1,24 @@
+.header_nav
+  a.header_link(href="/")
+  .header_shlok
+    p.header_shlok-random
+      | यदा यदा हि धर्मस्य ग्लानिर्भवति भारत:।
+      br
+      | अभ्युत्थानमधर्मस्य तदात्मानंसृजाम्यहम्॥
+  .header_nav-links 
+    if user
+      p.header_nav-links-name= user.name.split(" ")[0]
+      a.header_nav-links-user
+        img.header_nav-links-img(src=`/img/users/${user.photo}` alt="user")           
+    else
+      a.header_nav-login(href="/login") 
+        p.header_nav-links-para Login 
+      a.header_nav-signup(href="/signup") 
+        p.header_nav-links-para Signup 
+    .header_nav-userOptions.hidden 
+      a.header_nav-userOptions-option(href=`/profile`) 
+        i.uil.uil-user
+        p Profile
+      #logout.header_nav-userOptions-option 
+        i.ri-logout-circle-r-line
+        p Log Out

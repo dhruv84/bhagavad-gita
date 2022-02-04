@@ -1,0 +1,36 @@
+.tab.tab-1
+  .userProfile_form-container
+    h2.heading-secondary ACCOUNT SETTINGS
+    form.form.form-user-data
+      .form__group
+        label.form__label(for='name') Username
+        i.uil.uil-user.icon_form.icon_form-t2
+        input#name.form__input(type='text', value=`${user.name}`, required, name="name")
+      .form__group
+        label.form__label(for='email') Email address
+        i.uil.uil-envelope-alt.icon_form.icon_form-t2
+        input#email.form__input(type='email', value=`${user.email}`, required, name="email")
+      .form__group
+        .form_button 
+          button.btn--Save-user.btn-update Save Settings
+          img.loading_Update.loading_Update-save(src="/img/svg/Spin-1s-200px.svg", alt="")
+  .userProfile_form-container
+    h2.heading-secondary CHANGE PASSWORD 
+    form.form.form-user-password
+      .form__group
+        label.form__label(for='currentPassword') Current Password
+        i.uil.uil-lock-alt.icon_form
+        input#passwordCurrent.form__input(type='password', placeholder='••••••••', required, minlength='8')
+      .form__group
+        label.form__label(for='password') Password
+        i.uil.uil-lock-alt.icon_form
+        input#password.form__input(type='password', placeholder='••••••••', required, minlength='8')
+      .form__group
+        label.form__label(for='passwordConfirm') Password Confirm
+        i.uil.uil-lock-alt.icon_form
+        input#passwordConfirm.form__input(type='password', placeholder='••••••••', required, minlength='8')
+      .form__group
+        .form_button 
+          button.btn--Save-pass.btn-update Save Password
+          img.loading_Update.loading_Update-pass(src="/img/svg/Spin-1s-200px.svg", alt="")
+  button.delete-confirm Delete My Account

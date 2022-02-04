@@ -1,0 +1,33 @@
+.tab.tab-2.hidden
+  .favourite__slokas
+    if user.userFav[0]
+      each sloka in user.userFav 
+        .favourite__sloka
+          .favourite_dropdown
+            i.favourite_dropdown-icon.uil.uil-ellipsis-v   
+          .favourite_dropdown-options 
+            button.favourite_dropdown-option.favourite__sloka-times(data-id=`${sloka.sloka._id}`) Remove
+            a.favourite_dropdown-option(href=`/chapter/${sloka.chapterName}/${sloka.sloka.page}`) Go to Sloka              
+          .favourite__sloka-content 
+            p.favourite__sloka-heading Chapter -
+            p.favourite__sloka-value= sloka.sloka.chapter
+          .favourite__sloka-content 
+            p.favourite__sloka-heading Sloka Number -
+            p.favourite__sloka-value= sloka.sloka.slokaNumber
+          .favourite__sloka-content-t2 
+            p.favourite__sloka-heading Sloka Sanskrit -
+            -const arr = sloka.sloka.sloka.split('-')
+            each sl in arr 
+              p.favourite__sloka-value.font-hi   #{sl.split("S")[0]}।
+                br
+                | #{sl.split("S")[1]}              
+          .favourite__sloka-content-t2 
+            p.favourite__sloka-heading Sloka Hindi -
+            p.favourite__sloka-value.font-hi= sloka.sloka.translation_hi
+          .favourite__sloka-content-t2 
+            p.favourite__sloka-heading Sloka English -
+            p.favourite__sloka-value= sloka.sloka.translation_eng
+    else 
+      i.uil.uil-bookmark-full.bookmark_message-img
+      h1.bookmark_message Add your favourite sloka!
+      

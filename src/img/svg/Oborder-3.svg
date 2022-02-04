@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350"
+   height="5"
+   viewBox="0 0 350 5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Oborder-3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.1183741"
+     inkscape:cx="404.31953"
+     inkscape:cy="26.671399"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path885,0,1|#path953,0,1|#path955,0,1"
+       id="path-effect1246"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true"
+       applied="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1734"
+       style="fill:#c7c7c7;stroke-width:0.377953;stroke-linecap:square;stroke-linejoin:round"
+       d="m 174.91319,0.57258452 c 0,0 0.41838,0.81111898 0.7544,1.14610598 0.35342,0.352344 1.22401,0.767863 1.22401,0.767863 0,0 -0.87273,0.438965 -1.2172,0.787724 -0.32367,0.327677 -0.76121,1.153138 -0.76121,1.153138 0,0 -0.45884,-0.807267 -0.79398,-1.137899 -0.33515,-0.330631 -1.18444,-0.802963 -1.18444,-0.802963 0,0 0.73179,-0.434965 1.03912,-0.724524 0.36771,-0.34644 0.9393,-1.18944498 0.9393,-1.18944498 z m 5.69841,1.91396898 c 0,0 2.79555,0.104311 4.23504,0.563282 0,0 3.96386,-0.292072 8.63696,-0.208623 0,0 17.6078,-0.354659 19.8401,-0.146036 l -28.45543,-0.920352 c -0.84145,0.382243 -4.25667,0.711729 -4.25667,0.711729 z m -11.22319,0 c 0,0 -2.79555,-0.104311 -4.23505,-0.563282 0,0 -3.96384,0.292072 -8.637,0.208623 0,0 -17.60779,0.354659 -19.84006,0.146036 l 28.45543,0.920352 c 0.84145,-0.382243 4.25668,-0.711729 4.25668,-0.711729 z" />
+  </g>
+</svg>

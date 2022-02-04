@@ -1,0 +1,405 @@
+.chapters {
+  display: grid;
+  justify-content: center;
+  gap: 3rem;
+  column-gap: 10rem;
+  grid-template-columns: repeat(2, 40rem);
+  padding-bottom: 5rem;
+  border-bottom: 20px solid transparent;
+  border-image: url(/img/svg/Oborder-3.svg) 5 stretch;
+  position: relative;
+
+  @include response(tabL) {
+    column-gap: 6rem;
+  }
+
+  @include response(tabP) {
+    grid-template-columns: repeat(2, 38rem);
+    column-gap: 3rem;
+  }
+
+  @include response(tabS) {
+    grid-template-columns: repeat(2, 36rem);
+    column-gap: 1rem;
+  }
+
+  @include response(phone) {
+    grid-template-columns: repeat(1, 90%);
+    border-image: url(/img/svg/Oborder-4.svg) 5 stretch;
+  }
+
+  &_chapter {
+    background-color: rgba(0, 0, 0, 0.005);
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.06);
+    padding: 1rem 1rem 1rem 9rem;
+    position: relative;
+    transition: all 0.1s;
+    cursor: pointer;
+    border-radius: 50rem;
+    letter-spacing: -0.1rem;
+    height: 9rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    @include response(phone) {
+      padding: 1rem 1rem 1rem 8rem;
+    }
+
+    @include response(phoneSS) {
+      padding: 1rem 1rem 1rem 7rem;
+    }
+
+    &::before {
+      content: "";
+      position: absolute;
+      width: 5rem;
+      top: 50%;
+      height: 2rem;
+      transform: translateY(-50%);
+      left: 2rem;
+      background: center/contain no-repeat url(../img/svg/border-design2.svg);
+      transform: rotateZ(-90deg);
+      transform-origin: top;
+      opacity: 0;
+      transition: all 0.3s 0.05s;
+
+      @include response(phone) {
+        left: 1rem;
+      }
+    }
+
+    &:hover {
+      transform: translateY(-0.3rem);
+      box-shadow: 0 7px 7px rgba(0, 0, 0, 0.08);
+    }
+
+    &:hover::before {
+      opacity: 1;
+    }
+
+    &-name {
+      font-size: 2.2rem;
+      display: flex;
+      column-gap: 0.5rem;
+
+      &-num {
+        font-family: $font-eng;
+        font-weight: 500;
+        padding-top: 0.4rem;
+        color: $color-grey;
+      }
+    }
+
+    &-meaning {
+      color: $color-grey;
+    }
+  }
+}
+
+.gitaChapter {
+  min-height: 100vh;
+
+  &-info {
+    position: fixed;
+    background: linear-gradient(
+      120deg,
+      rgba(162, 82, 18, 1) 0%,
+      rgba(104, 45, 11, 1) 100%
+    );
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 30rem;
+    height: 100%;
+
+    @include response(tabL) {
+      left: -30rem;
+    }
+
+    &-img {
+      width: 8rem;
+      position: absolute;
+      top: 8rem;
+    }
+
+    &-underline-white {
+      width: 5rem;
+      height: 5rem;
+      background: url(/img/svg/Krishna/KrishnaPankh-White.svg) center/contain
+        no-repeat;
+
+      position: relative;
+
+      &::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: url(/img/svg/Krishna/KrishnaPankh-White.svg) center/contain
+          no-repeat;
+        top: 8px;
+        left: -12px;
+        transform: rotateZ(-30deg);
+      }
+    }
+  }
+
+  &-chapterName,
+  &-chapterNumber,
+  &-chapterMeaning {
+    color: $color-text;
+    font-size: 3rem;
+    width: 25rem;
+    text-align: center;
+  }
+
+  &-chapterNumber,
+  &-chapterMeaning {
+    font-size: 2.3rem;
+  }
+
+  &-chapterMeaning {
+    position: absolute;
+    bottom: 15rem;
+  }
+
+  &-slokas {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 5rem 0;
+    position: relative;
+    margin-left: 30rem;
+    line-height: 2.6rem;
+
+    @include response(tabL) {
+      margin-left: 0;
+    }
+
+    &-slokaBox {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      row-gap: 10rem;
+      position: relative;
+      text-align: center;
+    }
+
+    &-slokaNumber {
+      position: absolute;
+      top: 0;
+      left: -13rem;
+
+      &-eng {
+        transform: translateX(0.8rem);
+
+        @include response(tabX) {
+          transform: unset;
+        }
+      }
+
+      @include response(tabX) {
+        position: unset;
+        margin-bottom: 1rem;
+      }
+    }
+
+    &-sloka {
+      text-align: center;
+      font-size: 1.8rem;
+      width: 70rem;
+      display: flex;
+      flex-direction: column;
+      row-gap: 2rem;
+      position: relative;
+
+      // @include response(tabP) {
+      //   font-size: 2rem;
+      // }
+
+      @include response(phone) {
+        width: 100%;
+        padding: 4rem;
+      }
+
+      &::before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 90%;
+        height: 90%;
+        background: url("/img/svg/shankh.svg") center/contain no-repeat;
+      }
+
+      &:not(:last-child):after {
+        content: "";
+        background: url("/img/svg/Oborder-2.svg") center/contain no-repeat;
+        position: absolute;
+        width: 40rem;
+        height: 5rem;
+        bottom: -7rem;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+
+      &-eng {
+        font-family: $font-eng;
+        font-weight: 500;
+      }
+
+      &-eng,
+      &-hi {
+        color: $color-grey;
+      }
+
+      &-sans {
+        display: flex;
+        row-gap: 0.5rem;
+        min-height: 10.5rem;
+        margin-bottom: 2rem;
+        flex-direction: column;
+        justify-content: center;
+        background: linear-gradient(
+          90deg,
+          $color-text 0%,
+          #8080801f 50%,
+          $color-text 100%
+        );
+      }
+
+      &-hi,
+      &-eng,
+      &-sans {
+        position: relative;
+      }
+    }
+  }
+}
+
+.speaker {
+  position: absolute;
+  left: -20rem;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 50%;
+  display: flex;
+  width: 15rem;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  padding-right: 1rem;
+  border-right: 0.2rem solid $color-primary2;
+
+  @include response(tabX) {
+    position: unset;
+    transform: unset;
+    border: none;
+    padding-right: 0;
+    margin: 0 auto;
+    border-right: 0.2rem solid $color-grey;
+    border-left: 0.2rem solid $color-grey;
+    text-decoration: none;
+    color: $color-grey;
+  }
+}
+
+.meaning {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: $color-text;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text_dec {
+  text-decoration: underline;
+}
+
+.message_box {
+  position: absolute;
+  right: -21rem;
+  top: -65px;
+  width: 15rem;
+  font-size: 1.5rem;
+  text-align: start;
+  padding: 1rem;
+  background: linear-gradient(
+    120deg,
+    rgba(162, 82, 18, 1) 0%,
+    rgba(104, 45, 11, 1) 100%
+  );
+  border-radius: 1rem;
+  color: $color-text;
+  display: none;
+}
+
+.gitaChapter_bookmark {
+  position: absolute;
+  top: 50%;
+  right: -1.5rem;
+  font-size: 2.5rem;
+  transform: translateY(-50%);
+  cursor: pointer;
+  height: 2rem;
+  width: 1.5rem;
+
+  @include response(tabL) {
+    right: -2rem;
+  }
+}
+
+.chapterPagination {
+  position: fixed;
+  -webkit-clip-path: polygon(100% 0, 100% 100%, 50% 90%, 0 100%, 0 0);
+  clip-path: polygon(100% 0, 100% 100%, 50% 90%, 0 100%, 0 0);
+  font-family: $font-eng;
+  font-size: 1.5rem;
+  top: -12rem;
+  height: 20rem;
+  width: 5rem;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  padding-bottom: 3rem;
+  font-weight: 500;
+  right: 3rem;
+  z-index: 1;
+  transition: all 0.5s;
+
+  color: $color-text;
+  cursor: pointer;
+
+  &-load {
+    background: linear-gradient(
+      0deg,
+      rgba(104, 45, 11, 1) 0%,
+      rgba(162, 82, 18, 1) 50%,
+      rgba(104, 45, 11, 1) 100%
+    );
+    width: 100%;
+    height: 40rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+  }
+}
+
+.load {
+  animation: load 1.5s infinite;
+}
+
+.pageBookmarked {
+  top: 0;
+}

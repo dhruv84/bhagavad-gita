@@ -1,0 +1,94 @@
+extends base
+
+block content 
+  if user && user.newUser 
+    .userPopup 
+      .userPopup-content 
+        .userPopup-content-heading
+          p Hello, #{user.name.split(" ")[0]}
+        .userPopup-content-paras
+          .userPopup-content-para 
+            i.uil.uil-angle-right
+            p You can now bookmark your favourite slokas.
+          .userPopup-content-para 
+            i.uil.uil-angle-right
+            p Continue reading gita from where you left.
+          .userPopup-content-para 
+            i.uil.uil-angle-right
+            p You can now see your progress.
+        button.userPopup-content-button Close 
+  include _headerNav
+  a(href="#home").moveToTop
+    i.ri-arrow-up-s-line
+  header#home.header
+    .header_content.click-event
+      .header_content-links  
+        a#contact.header_content-links-link(href="/contact") 
+          i.ri-send-plane-fill
+        a#maya.header_content-links-link(href="/maya-ka-khel") 
+          i.ri-basketball-fill
+        a#toAbout.header_content-links-link(href="#about") 
+          i.ri-arrow-down-s-line
+      .krishna_img
+        img.krishna_img-svg(src='/img/svg/Krishna/Krishna.svg' alt='')
+      .header_headings
+        img.header_headings-img(src='/img/svg/border-design.svg' alt='')
+        p.header_headings-hi श्रीमद भगवद् गीता
+        if user && user.continue
+          a.header_headings-link.continue_reading(href=`/chapter${user.continue}`) 
+            p Continue Reading
+            i.uil.uil-angle-down.btn_icon
+        else 
+          a.header_headings-link(href="#chapters") 
+            p Start Reading
+            i.uil.uil-angle-down.btn_icon         
+  #chapters.section.section_chapters
+    .section_heading
+      p.section_heading-value अध्यायों की सूची
+    .chapters
+      each chapter in chapters
+        a.chapters_chapter(href=`/chapter/${chapter.slug}/1`)
+          .chapters_chapter-name
+            p.chapters_chapter-name-num=`${chapter.chapter}.`
+            p.chapters_chapter-name-value=`${chapter.name_hi}`
+          p.chapters_chapter-meaning= chapter.name_meaning_hi
+
+    img(src="/img/svg/Krishna-hand.svg").krishna_hand
+    button.btn_sloka-search Find Sloka
+      i.uil.uil-angle-down.btn_icon 
+    .sloka_search-box   
+      form.sloka_search-form
+        input#chapter.sloka_search-input.form__input(type="text", placeholder='Ch.', required)     
+        input#slokaNum.form__input.sloka_search-input(type="text", placeholder='Sl.', required) 
+        button.sloka_search-form-btn
+          i.uil.uil-search.btn_icon-search 
+    .loading_circle      
+      img.loading_circle-img(src="/img/svg/Spin-1s-200px.svg", alt="")     
+  #about.section.section_about
+    .section_heading
+      p.section_heading-value गीता के बारे में
+    .about_gita
+      .about_gita-para
+        p
+          | 6 नवंबर, 3126 ई.पू. कुरुक्षेत्र के युद्ध के मैदान में, एक अठारह दिन का युद्ध शुरू होने वाला था जो समाज निर्माण का आधार बना और धार्मिकता के महत्व को दोहराया।
+        p
+          | महाभारत, सबसे महत्वपूर्ण हिंदू महाकाव्यों में से एक, कुरु वंश नामक एक शासक वंश की कई पीढ़ियों के जीवन और कार्यों का लेखा-जोखा है। महाकाव्य के मध्य में एक युद्ध का वर्णन है जो इस कबीले से संबंधित दो प्रतिद्वंद्वी परिवारों के बीच हुआ था।
+        p
+          | कुरुक्षेत्र, जिस भूमि पर युद्ध लड़ा गया था, उसे "धर्मक्षेत्र" या धार्मिकता के क्षेत्र के रूप में भी जाना जाता था। महाभारत बताता है कि इस स्थान को इसलिए चुना गया था क्योंकि इस भूमि की पवित्रता के कारण इस भूमि पर किए गए पाप को क्षमा कर दिया गया था। लोकप्रिय परंपरा यह मानती है कि युद्ध कलियुग में संक्रमण का प्रतीक है।
+        p
+          | युद्ध की शुरुआत से पहले, अर्जुन और असाधारण पांडव धनुर्धर अपने चचेरे भाइयों, रिश्तेदारों, शिक्षकों और दोस्तों को दो सेनाओं में विभाजित, एक-दूसरे से लड़ने के लिए तैयार देखते हैं। दुःख और भ्रम से भरकर, वह अपनी समस्याओं को श्री कृष्ण, अपने चचेरे भाई, मित्र और सारथी के सामने रखता है। स्थिति की निराशा से अभिभूत, वह अपने खून से लड़ने से इंकार कर देता है।
+        p
+          | इस प्रकार श्रीकृष्ण और अर्जुन के बीच एक संवाद है कि अमर आध्यात्मिक भगवद गीता शुरू होता है।
+        p
+          | भगवद गीता महाकाव्य के "भीष्मपर्व" का हिस्सा है और इसमें कुल 18 अध्यायों में फैले 700 संस्कृत श्लोक हैं। दार्शनिक और आध्यात्मिक प्रवचन में, भगवद गीता दुनिया के अंतर्निहित सत्य को प्रकट करती है।
+        p
+          | व्यास एक प्रतिष्ठित साहित्यकार हैं जिन्होंने वेदों को चार अलग-अलग श्रेणियों में संकलित किया है, जिसके कारण उन्हें वेदव्यास कहा जाता है। महाकाव्य महाभारत के अलावा, जिसे पांचवें वेद के रूप में जाना जाता है, उन्होंने सात पुराण और ब्रह्म सूत्र भी लिखे।
+      img.about_gita-border(src='/img/svg/border-design2.svg' alt='')
+  #footer.footer 
+    .footer_links 
+      a.footer_link(href="/") Terms of Service 
+        span.footer_link-icon ↗︎ 
+      a.footer_link(href="/") Privacy Policy
+        span.footer_link-icon ↗︎ 
+      a.footer_link(href="/") Contact Us 
+        span.footer_link-icon ↗︎  

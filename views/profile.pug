@@ -1,0 +1,23 @@
+extends base
+
+block content 
+  include _headerNav
+  main.userProfile.click-event 
+    .userProfile-nav
+      button.btn_close-nav
+        i.uil.uil-bars.btn_close-nav-icon
+      .userProfile-nav-item.selected(data-tab='1')
+        i.uil.uil-setting.userProfile-nav-icon
+        p.userProfile-nav-para Setting 
+      .userProfile-nav-item.userProfile-nav-item-fav(data-tab='2')
+        i.uil.uil-bookmark-full.userProfile-nav-icon
+        p.userProfile-nav-para Favourites  
+      .userProfile-nav-item(data-tab='3')
+        i.uil.uil-user-circle.userProfile-nav-icon 
+        p.userProfile-nav-para Avatar  
+    .userProfile-content 
+      button.btn_open-nav
+        i.uil.uil-bars.btn_close-nav-icon
+      include _user_profile_settings
+      include _user_profile_bookmarks
+      include _user_profile_avatar

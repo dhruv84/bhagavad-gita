@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Asar&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+  // @include response(fourk) {
+  //   font-size: 100%;
+  // }
+
+  @include response(tabP) {
+    font-size: 50%;
+  }
+
+  @include response(phoneSMS) {
+    font-size: 47.75%;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 1rem;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 1rem;
+  background-color: $color-primary2;
+}
+
+body {
+  font-family: $font-hi;
+  font-weight: 500;
+  font-size: 1.7rem;
+  color: $color-primary2;
+  position: relative;
+  background-color: #fcfcfc;
+  overflow-x: hidden;
+}
+
+a {
+  font-family: $font-hi;
+  color: $color-primary2;
+  text-decoration: none;
+  font-weight: inherit;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+}

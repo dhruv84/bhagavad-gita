@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="1280pt"
+   height="1280pt"
+   viewBox="0 0 1280 1280"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg10"
+   sodipodi:docname="circle-paint-design.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1263"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.3016672"
+     inkscape:cx="786.61899"
+     inkscape:cy="1097.0031"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+</metadata>
+  <g
+     transform="matrix(0.1,0,0,-0.1,0,1264)"
+     fill="#8a460f"
+     stroke="none"
+     id="g8">
+    <path
+       id="path1215"
+       style="fill:#8a460f;stroke-width:1800;stroke-linecap:round;paint-order:markers fill stroke"
+       d="M 349.37062,8319.7025 1464.2485,7204.8242 A 5032.5991,5032.5991 0 0 0 6400.0102,11272.593 5032.5991,5032.5991 0 0 0 11432.598,6240.0048 5032.5991,5032.5991 0 0 0 6400.0102,1207.4023 5032.5991,5032.5991 0 0 0 1474.9126,5285.835 L 369.11671,4180.0391 A 6400,6400 0 0 1 6400.0102,-160 6400,6400 0 0 1 12800,6240.0048 6400,6400 0 0 1 6400.0102,12639.995 6400,6400 0 0 1 349.37062,8319.7025 Z" />
+  </g>
+</svg>

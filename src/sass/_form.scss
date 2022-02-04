@@ -1,0 +1,73 @@
+.formPage {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  transition: width ease-in-out 0.5s;
+  top: 2rem;
+  right: 3rem;
+  height: 4rem;
+  display: none;
+}
+
+.search {
+  width: 100%;
+  height: 100%;
+  padding: 1rem 0 1rem 2rem;
+  border: none;
+  outline: none;
+  font-family: $font-eng;
+  background-color: #f2f2f2;
+  font-size: 1.3rem;
+  border-radius: 50rem;
+  letter-spacing: 0.2rem;
+}
+
+.search-icon {
+  position: absolute;
+  font-size: 1.8rem;
+  width: 40px;
+  height: 100%;
+  right: 0;
+  display: flex;
+  top: 0;
+  justify-content: center;
+  align-items: center;
+  color: $color-primary2;
+  cursor: pointer;
+  border-radius: 50rem;
+  transition: all 0.5s;
+}
+
+.search-icon:hover {
+  opacity: 0.9;
+}
+
+.sloka_search-box {
+  margin: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.form_sloka-search-rev {
+  height: min-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+.sloka_search-form {
+  display: flex;
+  column-gap: 5rem;
+  justify-content: center;
+  position: relative;
+}
+
+.sloka_search-input {
+  padding: 1rem 0;
+  text-align: center;
+  width: 6rem;
+  font-family: $font-eng-2;
+}

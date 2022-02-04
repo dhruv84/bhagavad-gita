@@ -1,0 +1,51 @@
+.search_sloka-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 1rem;
+  margin: 5rem;
+  width: 70rem;
+  text-align: center;
+  box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+    -4px -4px 3px -1px rgb(255, 255, 255);
+  padding: 3rem;
+  border-radius: 2rem;
+  position: relative;
+
+  @include response(phone) {
+    width: 100%;
+    padding: 0 2rem;
+    line-height: 2.5rem;
+  }
+
+  &-sloka {
+    font-size: 1.9rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1.5rem 0;
+    align-items: center;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid;
+    }
+  }
+}
+
+.sloka_sans {
+  text-decoration: underline;
+}
+
+.loading_circle {
+  width: 10rem;
+  height: 10rem;
+  display: grid;
+  place-items: center;
+  margin-top: 5rem;
+  margin: 5rem auto 0 auto;
+  display: none;
+
+  &-img {
+    width: 100%;
+  }
+}

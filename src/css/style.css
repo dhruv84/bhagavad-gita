@@ -87,14 +87,14 @@ li {
       margin-left: auto;
       padding-right: 3rem;
       display: flex;
-      column-gap: 2rem;
       align-items: center;
       pointer-events: all;
       height: 100%; }
       .header_nav-links-name {
         font-family: "Quicksand", sans-serif;
         font-size: 1.8rem;
-        color: #fcfcfc; }
+        color: #fcfcfc;
+        margin-right: 1rem; }
         @media (max-width: 56.25em) {
           .header_nav-links-name {
             letter-spacing: 0.1rem;
@@ -113,6 +113,12 @@ li {
       text-transform: uppercase;
       font-family: "Quicksand";
       font-size: 1.5rem; }
+    .header_nav-login {
+      padding-right: 1rem;
+      border-right: 1px solid; }
+    .header_nav-signup {
+      padding-left: 1rem;
+      border-left: 1px solid; }
     .header_nav-userOptions {
       position: absolute;
       top: 7rem;

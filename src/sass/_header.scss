@@ -44,7 +44,6 @@
       margin-left: auto;
       padding-right: 3rem;
       display: flex;
-      column-gap: 2rem;
       align-items: center;
       pointer-events: all;
       height: 100%;
@@ -53,6 +52,7 @@
         font-family: $font-eng;
         font-size: 1.8rem;
         color: #fcfcfc;
+        margin-right: 1rem;
 
         @include response(tabP) {
           letter-spacing: 0.1rem;
@@ -79,14 +79,17 @@
       place-items: center;
       text-transform: uppercase;
       font-family: "Quicksand";
-      // font-weight: 500;
       font-size: 1.5rem;
+    }
 
-      // &:hover {
-      //   background: none;
-      //   background-color: $color-text;
-      //   color: $color-primary2;
-      // }
+    &-login {
+      padding-right: 1rem;
+      border-right: 1px solid;
+    }
+
+    &-signup {
+      padding-left: 1rem;
+      border-left: 1px solid;
     }
 
     &-userOptions {

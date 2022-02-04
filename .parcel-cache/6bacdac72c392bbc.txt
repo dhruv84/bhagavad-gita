@@ -1,4 +1,4 @@
-23175
+23183
 112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\log-symbols132884326161923722 1
 153C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss-selector-parser\README.md121436361000000000 0
 117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\padEnd.js121436361000000000 0
@@ -18,7 +18,7 @@
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\fp\assignInWith.js121436361000000000 0
 121C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongodb\src\admin.ts121436361000000000 0
 152C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\babel-ast-utils\test\fixtures\valid-only.js121436361000000000 0
-105C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\package-lock.json132883377240000000 0
+105C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\package-lock.json132884333478209509 0
 118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\html-tags\license131218946490000000 0
 119C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\get-intrinsic\test132884326088806506 1
 150C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\source-map\lib\source-map\source-map-generator.js130812878400000000 0
@@ -39,7 +39,7 @@
 178C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\stream-browserify\node_modules\readable-stream\lib\internal\streams\stream.js121436361000000000 0
 107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\buffer132884326163439667 1
 116C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\pbkdf2\index.js121436361000000000 0
-104C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\signup.js132883377240000000 0
+104C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\signup.js132883707963179604 0
 123C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\resolve\test\node_path132884326081737033 1
 108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\is-html132884326162980899 1
 120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\yaml\browser\map.js121436361000000000 0
@@ -62,7 +62,7 @@
 174C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\modules\es6.function.has-instance.js121436361000000000 0
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\jsdom\lib\jsdom\living\generated\File.js121436361000000000 0
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\available-typed-arrays\.github132884326097229046 1
-94C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\app.js132884327252797371 0
+94C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\app.js132884352025208922 0
 134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-discard-empty\LICENSE-MIT121436361000000000 0
 118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\browserify-cipher132884326153867406 1
 120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\wrappy\package.json132884326152072223 0
@@ -72,14 +72,14 @@
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2015\CreateHTML.js121436361000000000 0
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongodb\lib\bulk\common.js.map121436361000000000 0
 108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\request132884326153618074 1
-98C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\config.env132883382945099302 0
+98C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\config.env132884344726834492 0
 140C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\modules\es.reflect.construct.js121436361000000000 0
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\supports-hyperlinks\readme.md121436361000000000 0
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\typed-array\sort.js121436361000000000 0
 140C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-sass\src\libsass\src\functions.hpp121436361000000000 0
 134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\string\includes.js121436361000000000 0
 154C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\transformer-css\node_modules\semver\semver.js121436361000000000 0
-106C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\main.scss132883377240000000 0
+106C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\main.scss132883696099043628 0
 134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@swc\helpers\src\_create_class.js132732112500000000 0
 119C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\animate.css\source132884326061384771 1
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\NP.js121436361000000000 0
@@ -116,7 +116,7 @@
 120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\redent\package.json132884326155442688 0
 139C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\utility-types\dist\mapped-types.js.map121436361000000000 0
 147C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\modules\esnext.symbol.async-dispose.js121436361000000000 0
-100C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules132884326204970510 1
+100C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules132884333473921659 1
 96C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\dev-data132883377240000000 1
 122C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\http-proxy-middleware132884326154723232 1
 166C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\node.js121436361000000000 0
@@ -135,7 +135,7 @@
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\modules\es.promise.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\actual\instance\flat.js121436361000000000 0
 115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\is-wsl\license121436361000000000 0
-100C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\package.json132884325879301630 0
+100C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\package.json132884333476174965 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\css-tree\lib\syntax\scope\selector.js121436361000000000 0
 116C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\sshpk\README.md131898308050000000 0
 144C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\css-paint-api.js121436361000000000 0
@@ -154,7 +154,7 @@
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\features\typed-array\group-by.js121436361000000000 0
 122C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\with\lib\index.js.map121436361000000000 0
 124C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\setprototypeof\index.js121436361000000000 0
-107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_base.scss132883377240000000 0
+107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_base.scss132880368862366134 0
 129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2017\ToUint32.js121436361000000000 0
 119C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\pug-strip-comments132884326158099635 1
 120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\fp\extend.js121436361000000000 0
@@ -169,7 +169,7 @@
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\Number\multiply.js121436361000000000 0
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\ncp\test\regular-fixtures132884326082333626 1
 124C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\browserslist\index.d.ts121436361000000000 0
-97C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\server.js132883377240000000 0
+97C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\server.js132884254592107453 0
 116C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uniq\.npmignore130086087070000000 0
 128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\helpers\sign.js121436361000000000 0
 142C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\modules\es.symbol.to-primitive.js121436361000000000 0
@@ -227,12 +227,12 @@
 133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\highlight.js\scss\hopscotch.scss121436361000000000 0
 119C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\fp\isMap.js121436361000000000 0
 124C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\isDate.js121436361000000000 0
-111C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\bundled\index.js132884330001930141 0
+111C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\bundled\index.js132884357301435538 0
 103C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\views\error.pug132883377240000000 0
 140C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\yargs\node_modules\ansi-regex\readme.md121436361000000000 0
 153C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\fn\object\is.js121436361000000000 0
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\type-fest\source\promise-value.d.ts121436361000000000 0
-109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_header.scss132883377240000000 0
+109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_header.scss132884196461505939 0
 175C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json121436361000000000 0
 128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\w3c-xmlserializer\README.md121436361000000000 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\msgpackr-extract\prebuilds\darwin-x64132884326098520674 1
@@ -241,7 +241,7 @@
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\read-pkg\node_modules\type-fest132884326157441399 1
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\template\lib\populate.js121012626000000000 0
 174C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\stream-http\node_modules\readable-stream\lib\internal\streams\pipeline.js121436361000000000 0
-110C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_buttons.scss132883377240000000 0
+110C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_buttons.scss132884288109294125 0
 122C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\xmlchars\package.json132884326152002399 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\svgo\lib\svgo\css-select-adapter.d.ts121436361000000000 0
 120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\object-inspect\test132884326081348071 1
@@ -261,7 +261,7 @@
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\public-encrypt\node_modules\bn.js\lib132884326073439233 1
 139C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\packager-js\src\.eslintrc.json121436361000000000 0
 143C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongoose\lib\helpers\getConstructorName.js121436361000000000 0
-102C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\bundled132884330001999965 1
+102C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\bundled132884357301505350 1
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\modules\es.symbol.description.js121436361000000000 0
 118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\fp\omit.js121436361000000000 0
 113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\util\LICENSE121436361000000000 0
@@ -284,7 +284,7 @@
 150C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss-selector-parser\API.md121436361000000000 0
 125C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\isEmail.js121436361000000000 0
 102C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\views\maya.pug132883377240000000 0
-117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\forgetResetPassword.js132883377240000000 0
+117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\forgetResetPassword.js132883706501392193 0
 116C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\performance-now132884326159156809 1
 154C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\transformer-css\node_modules\semver\README.md121436361000000000 0
 114C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\nan\nan_new.h131637928500000000 0
@@ -318,7 +318,7 @@
 129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\is-date-object\test\index.js121436361000000000 0
 154C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\fn\array\virtual132884326109296928 1
 125C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\os-browserify\.npmignore131371327930000000 0
-103C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\index.js132884329760328111 0
+103C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\index.js132884354219854397 0
 128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\discontinuous-range\LICENSE130553109230000000 0
 110C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\delegates132884326166554356 1
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\type-fest\source\fixed-length-array.d.ts121436361000000000 0
@@ -376,7 +376,7 @@
 118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\views\_user_profile_avatar.pug132883377240000000 0
 125C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\nth-check\lib\compile.js121436361000000000 0
 151C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\css-display-contents.js121436361000000000 0
-110C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_profile.scss132883377240000000 0
+110C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_profile.scss132882466104337058 0
 114C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\fastparse\lib132884326090402222 1
 119C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\which\CHANGELOG.md121436361000000000 0
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\traverse\lib\scope\index.js121012626000000000 0
@@ -443,7 +443,7 @@
 127C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\buffer-equal-constant-time132884326167491851 1
 144C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\helper-compilation-targets\README.md121012626000000000 0
 108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\ret\lib132884326071240026 1
-113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\slokaSearch.scss132883377240000000 0
+113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\slokaSearch.scss132883695919206150 0
 120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\yaml\types\pairs.js121436361000000000 0
 147C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-normalize-display-values\dist\index.js121436361000000000 0
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\bson\lib\parser\deserializer.js.map121436361000000000 0
@@ -457,7 +457,7 @@
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2019\TrimString.js121436361000000000 0
 106C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\acorn132884326168249819 1
 161C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\slice-ansi\node_modules\is-fullwidth-code-point\package.json132884326156340281 0
-111C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_chapters.scss132883377240000000 0
+111C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_chapters.scss132884309498199524 0
 115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\icss-utils\lib132884326088118339 1
 137C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\features\typed-array\sort.js121436361000000000 0
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\CreateMethodProperty.js121436361000000000 0
@@ -466,7 +466,7 @@
 133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\es\lib\isCreditCard.js121436361000000000 0
 112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-api132884326159136869 1
 115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\des.js\.jscsrc121436361000000000 0
-107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_form.scss132883377240000000 0
+107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_form.scss132882455337193148 0
 127C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\array-flatten\package.json132884326167521768 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cssstyle\lib\properties\fontWeight.js121436361000000000 0
 152C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\animate.css\source\zooming_entrances\zoomInLeft.css121436361000000000 0
@@ -475,18 +475,18 @@
 122C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\msgpackr\iterators.js121436361000000000 0
 154C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js121436361000000000 0
 125C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\fp\reduceRight.js121436361000000000 0
-112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_keyframes.scss132883377240000000 0
+112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_keyframes.scss132878644613811087 0
 112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\object-keys132884326160090865 1
-108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_mixin.scss132883377240000000 0
+108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_mixin.scss132879343485425001 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\crypto-browserify\test\create-hash.js131437331830000000 0
-108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_login.scss132883377240000000 0
+108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_login.scss132884183182262999 0
 115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\har-schema\lib132884326090462070 1
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\alt-af.js121436361000000000 0
 123C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\yaml\dist\parse-cst.js121436361000000000 0
 142C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\customevent.js121436361000000000 0
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\util\toString.js121436361000000000 0
 109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\statuses132884326156300389 1
-107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_maya.scss132883377240000000 0
+107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_maya.scss132881598308520241 0
 152C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2018\ArrayCreate.js121436361000000000 0
 112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\animate.css132884326150187268 1
@@ -502,7 +502,7 @@
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\dom-iterables.js121436361000000000 0
 117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uuid\lib\sha1.js121436361000000000 0
 146C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\core\node_modules\json5\lib\index.d.ts121436361000000000 0
-107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_svgs.scss132883377240000000 0
+107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_svgs.scss132881155628494667 0
 134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\ncp\test\symlink-fixtures\src\dir132884326084707271 1
 140C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\get-async-iterator.js121436361000000000 0
 149C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\es7132884326109356772 1
@@ -511,11 +511,11 @@
 127C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\character-parser\README.md130994176420000000 0
 121C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\acorn\dist\acorn.mjs121436361000000000 0
 148C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md121436361000000000 0
-121C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\terser\dist\.gitkeep121436361000000000 0
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map121436361000000000 0
+121C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\terser\dist\.gitkeep121436361000000000 0
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\stream-browserify\test\pipeline.js121436361000000000 0
 129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-gyp-build\build-test.js121436361000000000 0
-113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_typography.scss132883377240000000 0
+113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_typography.scss132883511072517514 0
 133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cosmiconfig\dist\readFile.js.map121436361000000000 0
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-normalize-charset\dist132884326074915285 1
 164C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\id.js121436361000000000 0
@@ -523,7 +523,7 @@
 153C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js121436361000000000 0
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\modules\esnext.symbol.matcher.js121436361000000000 0
 116C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\chalk\readme.md131036840410000000 0
-112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_variables.scss132883377240000000 0
+112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\sass\_variables.scss132879870178707518 0
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-calc\types\index.d.ts121436361000000000 0
 111C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\acorn-walk132884326168209926 1
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\constants-browserify\constants.json130812848470000000 0
@@ -537,9 +537,9 @@
 147C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\getcomputedstyle.js121436361000000000 0
 134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\object-inspect\example\inspect.js121436361000000000 0
 124C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\Get.js121436361000000000 0
-109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\loginlogout.js132883377240000000 0
+109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\loginlogout.js132884264482262206 0
 164C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\traverse\node_modules\@babel\types\lib\asserts\generated132884326064665996 1
-109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\searchSloka.js132883377240000000 0
+109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\searchSloka.js132883384696255766 0
 139C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\minimalistic-crypto-utils\lib\utils.js131322720100000000 0
 115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mpath\Makefile121436361000000000 0
 120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\js-base64\README.md121436361000000000 0
@@ -551,10 +551,10 @@
 147C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\jsdom\lib\jsdom\living\generated\CloseEvent.js121436361000000000 0
 139C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\highlight.js\lib\languages\makefile.js121436361000000000 0
 121C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lmdb\dependencies\v8132884326075164618 1
-108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\updateUser.js132883377240000000 0
+108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\updateUser.js132883708846118872 0
 133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\actual\symbol\replace.js121436361000000000 0
 151C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc121436361000000000 0
-115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\bundled\index.js.map132884330001989983 0
+115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\js\bundled\index.js.map132884357301495377 0
 143C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongoose\lib\drivers\browser\decimal128.js121436361000000000 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-sass\src\libsass\src\context.cpp121436361000000000 0
 107C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\is-nan132884326160100842 1
@@ -672,7 +672,7 @@
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\yargs\node_modules\find-up\index.js131737869310000000 0
 167C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\index.js121436361000000000 0
 133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\crypto-browserify\test\pbkdf2.js130909473450000000 0
-118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\slokaController.js132883377240000000 0
+118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\slokaController.js132871762011733011 0
 118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\img\svg\border-design6.svg132883377240000000 0
 123C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\ripemd160\package.json132884326154326185 0
 153C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\jsdom\lib\jsdom\living\generated\HTMLTrackElement.js121436361000000000 0
@@ -744,7 +744,7 @@
 137C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\canvas.js121436361000000000 0
 116C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mime\.npmignore131560426600000000 0
 144C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\terser\node_modules\source-map\package.json132884326155402787 0
-122C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\favouriteController.js132883377240000000 0
+122C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\favouriteController.js132879240352222567 0
 155C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-modules-values\node_modules\source-map\LICENSE131369414900000000 0
 123C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\svgo\lib\svgo\tools.js121436361000000000 0
 117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\json5\lib\cli.js131658179820000000 0
@@ -1234,7 +1234,7 @@
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\selderee\lib\selderee.cjs121436361000000000 0
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2019\PromiseResolve.js121436361000000000 0
 127C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2018\modulo.js121436361000000000 0
-105C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\css\style.css132883377240000000 0
+105C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\src\css\style.css132884309499176197 0
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\resolve\test\pathfilter\deep_ref\main.js121436361000000000 0
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\body-parser\node_modules\qs\lib\utils.js121436361000000000 0
 122C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-gyp\gyp\setup.py121436361000000000 0
@@ -1521,6 +1521,7 @@
 128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\tty-browserify\package.json132884326154435889 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongodb\lib\cmap\auth\gssapi.js121436361000000000 0
 106C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss132884326152152005 1
+113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cors\LICENSE121436361000000000 0
 114C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\array-flatten132884326167661404 1
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\diffie-hellman\browser.js121436361000000000 0
 112C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\array-union132884326167651434 1
@@ -1768,8 +1769,8 @@
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\es\object\get-prototype-of.js121436361000000000 0
 154C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\jsdom\lib\jsdom\living\generated\HTMLOptionElement.js121436361000000000 0
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\reflect\has.js121436361000000000 0
-113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite132884326167432017 1
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\xss-filters\src\xss-filters.js130826285790000000 0
+113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite132884326167432017 1
 117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-sass\vendor132884326199152020 1
 151C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\stream-http\node_modules\readable-stream\README.md121436361000000000 0
 169C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\css-modules-loader-core\node_modules\source-map\lib\binary-search.js131369414910000000 0
@@ -1960,6 +1961,21 @@
 133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\public-encrypt\test\rsa.pass.pub121436361000000000 0
 152C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\terser\node_modules\source-map\lib\binary-search.js131709648810000000 0
 113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-util-is132884326166664070 1
+144C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\object-define-property.js121436361000000000 0
+140C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\css-fixed.js121436361000000000 0
+133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-gyp\gyp\pylib\gyp\common.py121436361000000000 0
+129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\isLowercase.js121436361000000000 0
+153C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\slice-ansi\node_modules\color-convert\conversions.js121436361000000000 0
+128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\es\object\values.js121436361000000000 0
+134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongodb\lib\operations\command.js121436361000000000 0
+168C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\fn\string\virtual\fontcolor.js121436361000000000 0
+117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\is-negative-zero132884326162970930 1
+117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\es\error132884326114179597 1
+133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2015\DateFromTime.js121436361000000000 0
+126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\isBefore.js121436361000000000 0
+131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\process-nextick-args\readme.md121436361000000000 0
+105C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cors132884333473876403 1
+139C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\symbol\to-string-tag.js121436361000000000 0
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\_defineProperty.js121436361000000000 0
 124C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\_baseIsNative.js121436361000000000 0
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-sass\src\sass_types\boolean.h121436361000000000 0
@@ -2564,6 +2580,7 @@
 157C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\fn\weak-set132884326107531647 1
 109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\parseurl132884326159346300 1
 128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\type-fest\source\merge.d.ts121436361000000000 0
+118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cors\package.json132884333473857405 0
 122C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\html-encoding-sniffer132884326152820214 1
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cssnano-preset-default\LICENSE-MIT121436361000000000 0
 121C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\querystring-es3\test132884326073289637 1
@@ -2671,16 +2688,6 @@
 114C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\is-expression132884326160100842 1
 110C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\pug-attrs132884326155342585 1
 129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2015\ToLength.js121436361000000000 0
-144C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\object-define-property.js121436361000000000 0
-140C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\css-fixed.js121436361000000000 0
-133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-gyp\gyp\pylib\gyp\common.py121436361000000000 0
-129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\isLowercase.js121436361000000000 0
-153C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\slice-ansi\node_modules\color-convert\conversions.js121436361000000000 0
-128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\es\object\values.js121436361000000000 0
-134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongodb\lib\operations\command.js121436361000000000 0
-168C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\fn\string\virtual\fontcolor.js121436361000000000 0
-117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\is-negative-zero132884326162970930 1
-117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\es\error132884326114179597 1
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongodb\lib\cmap\auth\gssapi.js.map121436361000000000 0
 109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\minizlib132884326150237134 1
 161C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss-selector-parser\dist\processor.js121436361000000000 0
@@ -3162,8 +3169,6 @@
 109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\path-key132884326159186733 1
 163C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\source-map-support\node_modules\source-map\lib\mapping-list.js131369414910000000 0
 115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\path-to-regexp132884326159166781 1
-164C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\generator\node_modules\@babel\types\lib\validators\react132884326081926518 1
-132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\IM.js121436361000000000 0
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\type-fest\source\entries.d.ts121436361000000000 0
 133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
 137C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\es\array\virtual\index-of.js121436361000000000 0
@@ -4606,9 +4611,6 @@
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\which-module\CHANGELOG.md131381435530000000 0
 129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\read-pkg\node_modules\semver132884326157501235 1
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\which-boxed-primitive\.github132884326056298389 1
-166C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-modules-local-by-default\node_modules\chalk\index.js.flow121436361000000000 0
-142C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\textcontent.js121436361000000000 0
-118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\shuffle.js121436361000000000 0
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\which-boxed-primitive\index.js121436361000000000 0
 146C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\read-pkg\node_modules\hosted-git-info\LICENSE121436361000000000 0
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\es\lib\isURL.js121436361000000000 0
@@ -4944,9 +4946,6 @@
 137C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\json\to-string-tag.js121436361000000000 0
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\stream-browserify\test\buf.js121436361000000000 0
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\isBase58.js121436361000000000 0
-133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2015\DateFromTime.js121436361000000000 0
-126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\isBefore.js121436361000000000 0
-131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\process-nextick-args\readme.md121436361000000000 0
 145C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\form-attribute.js121436361000000000 0
 120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\terser\lib\parse.js121436361000000000 0
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\validator\lib\isDivisibleBy.js121436361000000000 0
@@ -5752,10 +5751,10 @@
 166C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\root.js121436361000000000 0
 168C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\string.js121436361000000000 0
 128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2019\ToUint8.js121436361000000000 0
-182C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\modules\es7.reflect.get-own-metadata-keys.js121436361000000000 0
-124C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongodb\lib\sort.js.map121436361000000000 0
-132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\HU.js121436361000000000 0
 165C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\tag.js121436361000000000 0
+182C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\modules\es7.reflect.get-own-metadata-keys.js121436361000000000 0
+132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\HU.js121436361000000000 0
+124C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\mongodb\lib\sort.js.map121436361000000000 0
 156C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt121436361000000000 0
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\uncss\node_modules\postcss\lib132884326064725837 1
 125C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\fs.realpath\package.json132884326164828979 0
@@ -8662,8 +8661,8 @@
 121C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lowlight\lib\core.js121436361000000000 0
 143C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-normalize-repeat-style\LICENSE-MIT121436361000000000 0
 139C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2015\ArraySpeciesCreate.js121436361000000000 0
-152C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\HT.js121436361000000000 0
+152C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js121436361000000000 0
 145C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-normalize-display-values\LICENSE-MIT121436361000000000 0
 143C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-normalize-display-values\README.md121436361000000000 0
 124C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\dotenv\types\index.d.ts121436361000000000 0
@@ -8897,6 +8896,9 @@
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\node-sass\vendor\win32-x64-83132884326199181924 1
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\highlight.js\scss\tomorrow-night.scss121436361000000000 0
 180C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-modules-local-by-default\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
+166C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-modules-local-by-default\node_modules\chalk\index.js.flow121436361000000000 0
+142C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\textcontent.js121436361000000000 0
+118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\lodash\shuffle.js121436361000000000 0
 160C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-modules-local-by-default\node_modules\chalk\license121436361000000000 0
 162C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-modules-local-by-default\node_modules\chalk\readme.md121436361000000000 0
 151C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\postcss-modules\node_modules\postcss\lib\vendor.js121436361000000000 0
@@ -14479,8 +14481,8 @@
 142C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\iconv-lite\encodings\tables\shiftjis.json130976329310000000 0
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\https-browserify\index.js131358222450000000 0
 133C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\https-browserify\readme.markdown131358213920000000 0
-130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\http-signature\.dir-locals.el131480975920000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\ID.js121436361000000000 0
+130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\http-signature\.dir-locals.el131480975920000000 0
 119C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\http-signature\lib132884326057664734 1
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\Number\toString.js121436361000000000 0
 147C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cssstyle\lib\properties\webkitTextFillColor.js121436361000000000 0
@@ -16027,8 +16029,8 @@
 129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\workers\src\index.js121436361000000000 0
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\StringGetOwnProperty.js121436361000000000 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\types\lib\traverse\traverse.js121012626000000000 0
-130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\StringPad.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\HN.js121436361000000000 0
+130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\StringPad.js121436361000000000 0
 137C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\thisBooleanValue.js121436361000000000 0
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\es-abstract\2021\thisSymbolValue.js121436361000000000 0
 147C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\string\virtual\code-point-at.js121436361000000000 0
@@ -17426,6 +17428,12 @@
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cosmiconfig\dist\types.d.ts.map121436361000000000 0
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cosmiconfig\dist\types.js121436361000000000 0
 130C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cosmiconfig\dist\types.js.map121436361000000000 0
+121C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cors\CONTRIBUTING.md121436361000000000 0
+116C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cors\HISTORY.md121436361000000000 0
+109C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cors\lib132884333473724962 1
+115C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cors\README.md121436361000000000 0
+146C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\lib\public\MutableBundleGraph.js121436361000000000 0
+118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\cors\lib\index.js121436361000000000 0
 117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-util-is\lib132884326094720672 1
 123C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-util-is\README.md121436361000000000 0
 137C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\test\AssetGraph.test.js121436361000000000 0
@@ -17498,7 +17506,6 @@
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\symbol\split.js121436361000000000 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\symbol\to-primitive.js121436361000000000 0
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\actual\string\trim-right.js121436361000000000 0
-139C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\symbol\to-string-tag.js121436361000000000 0
 137C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\stable\symbol\unscopables.js121436361000000000 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\es\typed-array\uint8-array.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\features\regexp\test.js121436361000000000 0
@@ -17981,7 +17988,6 @@
 136C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\array-for-each.js121436361000000000 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\array-from-async.js121436361000000000 0
 153C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\array-from-constructor-and-list.js121436361000000000 0
-132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\IL.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\array-from.js121436361000000000 0
 147C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\array-iteration-from-last.js121436361000000000 0
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\core-js\internals\array-last-index-of.js121436361000000000 0
@@ -18945,7 +18951,7 @@
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\CD.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\CI.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\CK.js121436361000000000 0
-117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\viewController.js132883377240000000 0
+117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\viewController.js132880323270808625 0
 166C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\fn\regexp\replace.js121436361000000000 0
 144C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\features\css-selection.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\CM.js121436361000000000 0
@@ -18973,6 +18979,9 @@
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\GW.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\HR.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\IE.js121436361000000000 0
+132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\IL.js121436361000000000 0
+164C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\generator\node_modules\@babel\types\lib\validators\react132884326081926518 1
+132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\IM.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\IN.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\IQ.js121436361000000000 0
 132C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\caniuse-lite\data\regions\IS.js121436361000000000 0
@@ -20301,7 +20310,7 @@
 118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@types\whatwg-url132884326168269765 1
 123C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@types\whatwg-url\dist132884326098650330 1
 129C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@types\whatwg-url\index.d.ts132697227370000000 0
-117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\authController.js132883377240000000 0
+117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\authController.js132884347689171130 0
 126C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@types\whatwg-url\LICENSE132697227370000000 0
 131C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@types\whatwg-url\package.json132884326168180015 0
 128C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@types\whatwg-url\README.md132697227370000000 0
@@ -21504,7 +21513,6 @@
 139C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\lib\public\BundleGroup.js121436361000000000 0
 134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\lib\public\Config.js121436361000000000 0
 138C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\lib\public\Dependency.js121436361000000000 0
-146C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\lib\public\MutableBundleGraph.js121436361000000000 0
 141C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\lib\public\PluginOptions.js121436361000000000 0
 135C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\lib\public\Symbols.js121436361000000000 0
 134C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@parcel\core\lib\public\Target.js121436361000000000 0
@@ -22503,7 +22511,7 @@
 171C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\fn\number\to-precision.js121436361000000000 0
 172C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\fn\number\virtual\index.js121436361000000000 0
 175C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\fn\number\virtual\iterator.js121436361000000000 0
-118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\errorController.js132883377240000000 0
+118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\errorController.js132879497214217401 0
 179C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\fn\number\virtual\to-precision.js121436361000000000 0
 162C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\fn\math\acosh.js121436361000000000 0
 162C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\node_modules\@babel\polyfill\node_modules\core-js\library\fn\math\atanh.js121436361000000000 0
@@ -23172,5 +23180,5 @@
 113C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\modals\favouritesModal.js132883377240000000 0
 108C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\modals\slokaModal.js132883377240000000 0
 118C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\dev-data\gita-allChapters.json132883377240000000 0
-120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\chapterController.js132883377240000000 0
-117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\userController.js132883377240000000 0
+120C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\chapterController.js132857419853846262 0
+117C:\Users\Manveer Chauhan\Downloads\Compressed\bhagavad-gita-master\bhagavad-gita-master\controllers\userController.js132881631589512641 0

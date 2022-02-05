@@ -416,6 +416,12 @@
   transform: translateY(-50%);
   z-index: 100;
 
+  @include response(phone) {
+    top: 8rem;
+    left: 3.5rem;
+    transform: translateY(0%);
+  }
+
   &_btn {
     display: grid;
     place-items: center;
@@ -447,13 +453,19 @@
     display: flex;
     width: 30rem;
     flex-direction: column;
-    // row-gap: 2rem;
     padding: 3rem;
     border-radius: 3rem;
     transform-origin: right center;
     transition: transform 0.1s;
     box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
       -4px -4px 3px -1px rgb(255, 255, 255);
+
+    @include response(phone) {
+      left: 0;
+      top: 5rem;
+      transform-origin: top left;
+      transform: translateY(0%) scale(0);
+    }
 
     &-para {
       display: flex;
@@ -475,6 +487,10 @@
 
 .show_info {
   transform: translateY(-50%) scale(1);
+
+  @include response(phone) {
+    transform: translateY(0%) scale(1);
+  }
 }
 
 .icon_info {

@@ -817,6 +817,11 @@ li {
   color: #808080;
   transform: translateY(-50%);
   z-index: 100; }
+  @media (max-width: 37.5em) {
+    .instructions {
+      top: 8rem;
+      left: 3.5rem;
+      transform: translateY(0%); } }
   .instructions_btn {
     display: grid;
     place-items: center;
@@ -847,6 +852,12 @@ li {
     transform-origin: right center;
     transition: transform 0.1s;
     box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15), -4px -4px 3px -1px white; }
+    @media (max-width: 37.5em) {
+      .instructions_info {
+        left: 0;
+        top: 5rem;
+        transform-origin: top left;
+        transform: translateY(0%) scale(0); } }
     .instructions_info-para {
       display: flex;
       align-items: center;
@@ -860,6 +871,9 @@ li {
 
 .show_info {
   transform: translateY(-50%) scale(1); }
+  @media (max-width: 37.5em) {
+    .show_info {
+      transform: translateY(0%) scale(1); } }
 
 .icon_info {
   color: #8a460f; }

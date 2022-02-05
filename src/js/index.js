@@ -45,6 +45,9 @@ const resetPasswordForm = document.querySelector(".form--resetPassword");
 const userUpdateForm = document.querySelector(".form-user-data");
 const userPasswordForm = document.querySelector(".form-user-password");
 
+//cookie-section
+console.log((document.cookie = "name=Dhruv"));
+
 if (btnDeleteConfirm) {
   btnDeleteConfirm.addEventListener("click", (e) => {
     e.preventDefault();
@@ -412,5 +415,3 @@ if (userPasswordForm) {
     document.querySelector(".loading_Update-pass").style.display = "none";
   });
 }
-
-console.log((document.cookie = "name=Dhruv"));

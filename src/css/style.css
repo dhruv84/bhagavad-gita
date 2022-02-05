@@ -832,7 +832,7 @@ li {
       box-shadow: inset 3px 3px 3px -1px rgba(0, 0, 0, 0.15), inset -4px -4px 3px -1px white; }
   .instructions_info {
     position: absolute;
-    right: 2rem;
+    right: 0;
     top: 5rem;
     transform: scale(0);
     font-size: 1.5rem;

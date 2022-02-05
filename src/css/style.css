@@ -958,7 +958,8 @@ li {
       .about_gita-para {
         width: 100%;
         text-align: start;
-        padding: 4rem; } }
+        padding: 4rem;
+        font-size: 1.8rem; } }
 
 .color_grey {
   color: #808080; }
@@ -1123,31 +1124,6 @@ li {
       cursor: pointer;
       text-decoration: 2px underline #8a460f;
       margin-left: auto; }
-
-.footer {
-  justify-content: center;
-  width: 100%;
-  background: linear-gradient(120deg, #a25212 0%, #682d0b 100%);
-  display: flex;
-  flex-direction: column;
-  display: none; }
-  .footer_links {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    row-gap: 1.5rem;
-    padding: 5rem; }
-  .footer_link {
-    color: #fcfcfc;
-    font-family: "Space Mono", serif;
-    transition: all 0.2s;
-    font-size: 2rem;
-    float: 1; }
-    .footer_link-icon {
-      font-size: 2.5rem;
-      margin-left: 1rem; }
-    .footer_link:hover {
-      color: #cecece; }
 
 .moveToTop {
   position: fixed;

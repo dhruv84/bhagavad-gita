@@ -11,6 +11,8 @@ import {
   deleteUser,
 } from "./updateUser";
 
+import { setCookie, getCookie, deleteCookie } from "./cookie";
+
 import { getSloka } from "./searchSloka";
 import { forgetPassword, resetPassword } from "./forgetResetPassword";
 
@@ -46,7 +48,6 @@ const userUpdateForm = document.querySelector(".form-user-data");
 const userPasswordForm = document.querySelector(".form-user-password");
 
 //cookie-section
-console.log((document.cookie = "name=Dhruv"));
 
 if (btnDeleteConfirm) {
   btnDeleteConfirm.addEventListener("click", (e) => {

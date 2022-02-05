@@ -523,6 +523,7 @@ var _polyfill = require("@babel/polyfill");
 var _loginlogout = require("./loginlogout");
 var _signup = require("./signup");
 var _updateUser = require("./updateUser");
+var _cookie = require("./cookie");
 var _searchSloka = require("./searchSloka");
 var _forgetResetPassword = require("./forgetResetPassword");
 const meaningBox = document.querySelectorAll(".meaning");
@@ -551,7 +552,6 @@ const resetPasswordForm = document.querySelector(".form--resetPassword");
 const userUpdateForm = document.querySelector(".form-user-data");
 const userPasswordForm = document.querySelector(".form-user-password");
 //cookie-section
-console.log(document.cookie = "name=Dhruv");
 if (btnDeleteConfirm) btnDeleteConfirm.addEventListener("click", (e)=>{
     e.preventDefault();
     const markup = `
@@ -762,7 +762,7 @@ if (userPasswordForm) userPasswordForm.addEventListener("submit", async (e)=>{
     document.querySelector(".loading_Update-pass").style.display = "none";
 });
 
-},{"@babel/polyfill":"9Gz38","./loginlogout":"7gKqs","./signup":"9lXyn","./updateUser":"ctXWj","./searchSloka":"h43TQ","./forgetResetPassword":"adYPm"}],"9Gz38":[function(require,module,exports) {
+},{"@babel/polyfill":"9Gz38","./loginlogout":"7gKqs","./signup":"9lXyn","./updateUser":"ctXWj","./searchSloka":"h43TQ","./forgetResetPassword":"adYPm","./cookie":"clk0W"}],"9Gz38":[function(require,module,exports) {
 "use strict";
 require("./noConflict");
 var _global = _interopRequireDefault(require("core-js/library/fn/global"));
@@ -9708,6 +9708,36 @@ const resetPassword = async (password, passwordConfirm, token)=>{
     }
 };
 
-},{"axios":"1IeuP","../../utilities/createAlert":"eJfgx","@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}]},["elrNg","3auaO"], "3auaO", "parcelRequire4e9b")
+},{"axios":"1IeuP","../../utilities/createAlert":"eJfgx","@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}],"clk0W":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "setCookie", ()=>setCookie
+);
+parcelHelpers.export(exports, "getCookie", ()=>getCookie
+);
+parcelHelpers.export(exports, "deleteCookie", ()=>deleteCookie
+);
+const setCookie = function(cname, cvalue, exdays) {
+    const d = new Date();
+    d.setTime(d.getTime() + exdays * 86400000);
+    let expires = "expires=" + d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+};
+const getCookie = function(cname) {
+    let name = cname + "=";
+    let decodedCookie = decodeURIComponent(document.cookie);
+    let ca = decodedCookie.split(";");
+    for(let i = 0; i < ca.length; i++){
+        let c = ca[i];
+        while(c.charAt(0) == " ")c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return "";
+};
+const deleteCookie = function(cname) {
+    document.cookie = `${cname}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;`;
+};
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}]},["elrNg","3auaO"], "3auaO", "parcelRequire4e9b")
 
 //# sourceMappingURL=index.js.map

@@ -21,6 +21,7 @@ mixin slokaBox(chapter, sloka)
         p.text_dec   #{sl.split("S")[0]}।
           br
           | #{sl.split("S")[1]}
+
     .gitaChapter-slokas-sloka-hi
       p.gitaChapter-slokas-slokaNumber.gitaChapter-slokas-slokaNumber-hi.font-eng ।।#{chapter.chapter}.#{sloka.slokaNumber}।।
       p=`${sloka.translation_hi}`
@@ -40,6 +41,19 @@ block content
       p.gitaChapter-chapterName= chapter.name_hi
       p.gitaChapter-chapterMeaning= chapter.name_meaning_hi
     .gitaChapter-slokas
+      .instructions 
+        button.instructions_btn
+          i.uil.uil-info.instructions_icon
+        .instructions_info
+          .instructions_info-para 
+            i.ri-bookmark-line.icon_info
+            p Use this bookmark your favourite sloka.
+          .instructions_info-para 
+            i.ri-bookmark-fill.icon_info.icon-big
+            p Use this to save your progress.
+          .instructions_info-para 
+            i.ri-checkbox-blank-circle-fill.icon_info.icon-small 
+            p Use this to display available meanings.
       .chapterPagination.chapterBookmark(data-link=`/${chapter.slug}/${page}`)
         p.chapterPagination-value #{page}/#{slokaLength} 
         .chapterPagination-load

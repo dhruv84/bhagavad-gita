@@ -533,6 +533,7 @@ const btn_meaning = document.querySelectorAll(".btn_meaning");
 const btnNavClose = document.querySelector(".btn_close-nav");
 const btnSearchSloka = document.querySelector(".btn_sloka-search");
 const btnDeleteConfirm = document.querySelector(".delete-confirm");
+const infoBtn = document.querySelector(".instructions_btn");
 const user = document.querySelector(".header_nav-links-user");
 const profileNav = document.querySelector(".userProfile-nav");
 const userOptions = document.querySelector(".header_nav-userOptions");
@@ -552,6 +553,9 @@ const resetPasswordForm = document.querySelector(".form--resetPassword");
 const userUpdateForm = document.querySelector(".form-user-data");
 const userPasswordForm = document.querySelector(".form-user-password");
 //cookie-section
+if (infoBtn) infoBtn.addEventListener("click", ()=>{
+    document.querySelector(".instructions_info").classList.toggle("show_info");
+});
 if (btnDeleteConfirm) btnDeleteConfirm.addEventListener("click", (e)=>{
     e.preventDefault();
     const markup = `

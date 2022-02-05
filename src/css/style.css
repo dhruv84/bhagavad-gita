@@ -810,9 +810,69 @@ li {
 .pageBookmarked {
   top: 0; }
 
+.instructions {
+  position: fixed;
+  top: 50%;
+  right: 3rem;
+  color: #808080;
+  transform: translateY(-50%);
+  z-index: 100; }
+  .instructions_btn {
+    display: grid;
+    place-items: center;
+    width: 4.5rem;
+    height: 4.5rem;
+    font-size: 3rem;
+    border: none;
+    border-radius: 50%;
+    color: #808080;
+    background-color: #fcfcfc;
+    box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15), -4px -4px 3px -1px white;
+    cursor: pointer; }
+    .instructions_btn:hover {
+      box-shadow: inset 3px 3px 3px -1px rgba(0, 0, 0, 0.15), inset -4px -4px 3px -1px white; }
+  .instructions_info {
+    position: absolute;
+    right: 7rem;
+    top: 50%;
+    transform: translateY(-50%) scale(0);
+    font-size: 1.5rem;
+    font-family: "Quicksand", sans-serif;
+    background-color: #fcfcfc;
+    display: flex;
+    width: 30rem;
+    flex-direction: column;
+    padding: 3rem;
+    border-radius: 3rem;
+    transform-origin: right center;
+    transition: transform 0.1s;
+    box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15), -4px -4px 3px -1px white; }
+    .instructions_info-para {
+      display: flex;
+      align-items: center;
+      column-gap: 2rem;
+      padding: 1rem 0 1rem 1.5rem; }
+      .instructions_info-para:not(:last-child) {
+        border-bottom: 1px solid; }
+    .instructions_info-para-icon {
+      font-size: 2rem;
+      color: #8a460f; }
+
+.show_info {
+  transform: translateY(-50%) scale(1); }
+
+.icon_info {
+  color: #8a460f; }
+
+.icon-big {
+  font-size: 3.5rem; }
+
+.icon-small {
+  font-size: 0.9rem; }
+
 .section {
   min-height: 100vh;
-  padding: 4rem;
+  padding: 4rem 3rem;
   border-bottom: 10px solid transparent;
   border-image: url("/img/svg/border-line.svg") 80 stretch;
   display: flex;

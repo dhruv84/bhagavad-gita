@@ -407,3 +407,84 @@
 .pageBookmarked {
   top: 0;
 }
+
+.instructions {
+  position: fixed;
+  top: 50%;
+  right: 3rem;
+  color: $color-grey;
+  transform: translateY(-50%);
+  z-index: 100;
+
+  &_btn {
+    display: grid;
+    place-items: center;
+    width: 4.5rem;
+    height: 4.5rem;
+    font-size: 3rem;
+    border: none;
+    border-radius: 50%;
+    color: $color-grey;
+    background-color: $color-text;
+    box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+      -4px -4px 3px -1px rgb(255, 255, 255);
+    cursor: pointer;
+
+    &:hover {
+      box-shadow: inset 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+        inset -4px -4px 3px -1px rgb(255, 255, 255);
+    }
+  }
+
+  &_info {
+    position: absolute;
+    right: 7rem;
+    top: 50%;
+    transform: translateY(-50%) scale(0);
+    font-size: 1.5rem;
+    font-family: $font-eng;
+    background-color: $color-text;
+    display: flex;
+    width: 30rem;
+    flex-direction: column;
+    // row-gap: 2rem;
+    padding: 3rem;
+    border-radius: 3rem;
+    transform-origin: right center;
+    transition: transform 0.1s;
+    box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
+      -4px -4px 3px -1px rgb(255, 255, 255);
+
+    &-para {
+      display: flex;
+      align-items: center;
+      column-gap: 2rem;
+      padding: 1rem 0 1rem 1.5rem;
+
+      &:not(:last-child) {
+        border-bottom: 1px solid;
+      }
+    }
+
+    &-para-icon {
+      font-size: 2rem;
+      color: $color-primary2;
+    }
+  }
+}
+
+.show_info {
+  transform: translateY(-50%) scale(1);
+}
+
+.icon_info {
+  color: $color-primary2;
+}
+
+.icon-big {
+  font-size: 3.5rem;
+}
+
+.icon-small {
+  font-size: 0.9rem;
+}

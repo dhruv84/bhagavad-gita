@@ -819,8 +819,8 @@ li {
   .instructions_btn {
     display: grid;
     place-items: center;
-    width: 4.5rem;
-    height: 4.5rem;
+    width: 4rem;
+    height: 4rem;
     font-size: 3rem;
     border: none;
     border-radius: 50%;

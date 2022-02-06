@@ -413,7 +413,6 @@
   top: 1rem;
   right: 10rem;
   color: $color-grey;
-  // transform: translateY(-50%);
   z-index: 100;
 
   &_btn {
@@ -421,7 +420,7 @@
     place-items: center;
     width: 4rem;
     height: 4rem;
-    font-size: 3rem;
+    font-size: 2.5rem;
     border: none;
     border-radius: 50%;
     color: $color-grey;
@@ -429,6 +428,15 @@
     box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
       -4px -4px 3px -1px rgb(255, 255, 255);
     cursor: pointer;
+
+    &-icon {
+      display: flex;
+      transition: transform 0.2s;
+    }
+
+    &:hover &-icon {
+      transform: rotateZ(90deg);
+    }
 
     &:hover {
       box-shadow: inset 3px 3px 3px -1px rgba(0, 0, 0, 0.15),
@@ -487,3 +495,9 @@
 .icon-small {
   font-size: 0.9rem;
 }
+
+// .instructions_before {
+//   &::before {
+//     animation: clockrotate 1.2s ease-in-out infinite;
+//   }
+// }

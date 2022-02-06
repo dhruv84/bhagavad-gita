@@ -424,9 +424,9 @@ li {
 
 @keyframes clockrotate {
   0% {
-    transform: translate(-50%, -50%) rotate(0); }
+    transform: rotate(0); }
   100% {
-    transform: translate(-50%, -50%) rotate(360deg); } }
+    transform: rotate(360deg); } }
 
 .span__dots {
   position: absolute;
@@ -821,13 +821,18 @@ li {
     place-items: center;
     width: 4rem;
     height: 4rem;
-    font-size: 3rem;
+    font-size: 2.5rem;
     border: none;
     border-radius: 50%;
     color: #808080;
     background-color: #fcfcfc;
     box-shadow: 3px 3px 3px -1px rgba(0, 0, 0, 0.15), -4px -4px 3px -1px white;
     cursor: pointer; }
+    .instructions_btn-icon {
+      display: flex;
+      transition: transform 0.2s; }
+    .instructions_btn:hover .instructions_btn-icon {
+      transform: rotateZ(90deg); }
     .instructions_btn:hover {
       box-shadow: inset 3px 3px 3px -1px rgba(0, 0, 0, 0.15), inset -4px -4px 3px -1px white; }
   .instructions_info {
